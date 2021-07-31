@@ -1,0 +1,22 @@
+{
+	"name": "shipmentchain",
+	"version": "1.0.0",
+	"description": "A blockchain solution to manage and track the exact location of any shipment",
+	"scripts": {
+		"test": "truffle test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/priyamharsh14/ShipmentChain.git"
+	},
+	"author": "Priyam Harsh",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/priyamharsh14/ShipmentChain/issues"
+	},
+	"homepage": "https://github.com/priyamharsh14/ShipmentChain#readme",
+	"devDependencies": {
+		"truffle": "^5.4.2",
+		"truffle-contract": "^4.0.31"
+	}
+}
